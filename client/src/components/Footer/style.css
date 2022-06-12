@@ -1,0 +1,13 @@
+.container-footer{
+    background-color: rgb(17, 12, 24);
+    color: white;
+    bottom: 0;
+    position:absolute;
+    width: 100%;
+    min-height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    align-items: center;
+    font-family: sans-serif;
+}

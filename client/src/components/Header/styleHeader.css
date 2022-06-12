@@ -1,0 +1,31 @@
+.container-header{
+    border-bottom: solid 2px #d3d1d1;
+    position:absolute;
+    width: 100%;
+    min-height: 80px;
+    font-family: sans-serif;
+    justify-content: space-between;
+
+}
+
+.header-content{
+    justify-content: space-between;
+    flex-direction: row;
+    display: flex;
+
+}
+.container-img img{
+    margin: 20px;
+}
+
+.container-button{
+    margin: 15px;
+}
+
+.container-right{
+    display: flex;
+}
+
+.container-right img{
+    margin: 10px;
+}
